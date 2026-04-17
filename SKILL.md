@@ -1,5 +1,5 @@
 ---
-name: wechat-vant-weapp
+name: design-to-wechat-vant-weapp
 description: 针对原生微信小程序与 @vant/weapp 的项目内开发和设计稿转代码 skill。适用于新增或修改 pages 页面四件套、配置 usingComponents、接入 van- 组件、从 Figma 或 MasterGo 设计稿生成符合当前仓库规范的小程序代码，以及排查 Vant Weapp 组件注册、样式覆盖、Toast 使用和 style v2 冲突问题。默认遵循当前工作区中的 llm/ai-standards.md。
 ---
 
