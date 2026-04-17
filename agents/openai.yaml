@@ -1,7 +1,7 @@
 interface:
   display_name: "微信小程序 Vant Weapp"
   short_description: "小程序、Vant 与设计稿转代码助手"
-  default_prompt: "Use $wechat-vant-weapp to build or update a WeChat Mini Program page with @vant/weapp in the current workspace and follow llm/ai-standards.md."
+  default_prompt: "Use $design-to-wechat-vant-weapp to build or update a WeChat Mini Program page with @vant/weapp in the current workspace and follow llm/ai-standards.md."
 
 policy:
   allow_implicit_invocation: true
