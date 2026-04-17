@@ -103,7 +103,7 @@ description: 针对原生微信小程序与 @vant/weapp 的项目内开发和设
 
 - `references/vant-components-docs.md`
 适合在选择具体 `van-` 组件、寻找官方文档入口、判断子组件该看哪个父文档页时阅读。
-如果发现这份索引过期或 Vant 版本变更，可运行 `node skills/wechat-vant-weapp/scripts/update_vant_components_docs.js` 重新生成。
+如果发现这份索引过期或 Vant 版本变更，可运行 `node design-to-wechat-vant-weapp/scripts/update_vant_components_docs.js` 重新生成。
 
 - `references/page-checklist.md`
 适合在新增页面、编辑页面做交付前自检时阅读。
